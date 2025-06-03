@@ -4,5 +4,5 @@ Aqui você encontra os passos para configurar, desenvolver e manter cada parte d
 
 ## 📱 Aplicativo Mobile (Expo + Tailwind + GlueStack)
 
-- **Repositório:** [expo-mobile](https://github.com/seu-usuario/expo-mobile)
+- **Repositório:** [expo-mobile](https://github.com/JulioOzen/Expo-docs)
 - **Conteúdo:** Instalação do Tailwind, NativeWind, GlueStack, estrutura de pastas, navegação, comandos úteis.
